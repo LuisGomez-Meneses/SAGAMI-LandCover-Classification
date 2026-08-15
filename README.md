@@ -13,7 +13,7 @@ The study was conducted in the **SAGAMI property**, located in the municipality 
 The study area contains a heterogeneous landscape including natural forest, commercial forest plantations, agricultural areas, pastures, water bodies, and infrastructure. This spatial heterogeneity provides an appropriate scenario for evaluating the ability of multisensor satellite information to discriminate different land cover types at the property scale.
 
 <p align="center">
-  <img src="Images/Figura1_zona_de_estudio.png" width="750">
+  <img src="Images/Figura1_zona_de_estusio.png" width="750">
 </p>
 
 <p align="center">
